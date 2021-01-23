@@ -1,0 +1,77 @@
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #90e0ef;
+}
+
+
+hr{
+  border: 2px solid #ffffff;
+  width: 50%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: #000000;
+  padding: 1rem;
+}
+
+
+.hambuger{
+  background-color: #83c5be;
+  padding: 0.3rem;
+}
+
+.icon{
+    background-color: #ffffff;
+    border-radius: 20%;
+    margin-right: 5%;
+}
+
+.iconSize{
+  width: 20%;
+}
+
+.iconBackground{
+  background: #ffffff;
+  border-radius: 5%;
+  width: 10%;
+
+}
+
+.learn{
+  background-color: #83c5be;
+  color: #ffffff;
+
+}
+
+.legal{
+  background-color: #006d77;
+  color: #ffffff;
+  text-align: center;
+}
+
+.leftBar{
+  background-color: #084c61;
+}
+
+.links{
+  color: #ffffff;
+  background-color: #084c61;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  font-weight: bold;
+}
+
+
+.rightBar{
+  color: #ffffff;
+  background-color: #177e89;
+}
+
+.section{
+  width: 100%;
+}
