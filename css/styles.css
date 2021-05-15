@@ -8,6 +8,9 @@ a:hover{
   color: #90e0ef;
 }
 
+body{
+  overflow: hidden;
+}
 
 hr{
   border: 2px solid #ffffff;
